@@ -21,7 +21,11 @@
 [kp-hyphen]>[F11]
 [kp-\]>[F12]
 
-* VIM arrows
+* VIM
+[caps]>[escape]
+[kp-caps]>[escape]
+[escape]>[caps]
+[kp-escape]>[caps]
 [kp-H]>[left]
 [kp4]>[down]
 [kp5]>[up]
@@ -44,3 +48,26 @@
 * Brightness
 [scroll]>[F14]
 [pause]>[F15]
+
+* Modifiers
+[end]>[lctrl]
+[pdown]>[ralt]
+[kp-end]>[lctrl]
+[kp-pdown]>[ralt]
+
+* Disabled keys
+[=]>[NULL]
+[kp-=]>[NULL]
+[hyphen]>[NULL]
+[home]>[NULL]
+[kp-home]>[NULL]
+[left]>[NULL]
+[kp-left]>[NULL]
+[right]>[NULL]
+[kp-right]>[NULL]
+[up]>[NULL]
+[kp-up]>[NULL]
+[down]>[NULL]
+[kp-down]>[NULL]
+[obrack]>[NULL]
+[cbrack]>[NULL]
